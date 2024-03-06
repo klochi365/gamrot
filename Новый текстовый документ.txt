@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Your description here">
+    <meta name="keywords" content="your, keywords, here">
+    <title>Your Name</title>
+    <style>
+        /* Your CSS styles go here */
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Your Name</h1>
+    <img src="your-image.jpg" alt="Your Image">
+</header>
+
+<nav>
+    <ul>
+        <li><a href="#text-work">Робота з текстом</a></li>
+        <li><a href="#lists">Списки</a></li>
+        <li><a href="#links">Гіперпосилання</a></li>
+        <li><a href="#images">Зображення</a></li>
+        <li><a href="#table">Таблиця</a></li>
+        <li><a href="#form">Форма</a></li>
+    </ul>
+</nav>
+
+<section id="text-work">
+    <!-- Your content for "Робота з текстом" goes here -->
+</section>
+
+<section id="lists">
+    <!-- Your content for "Списки" goes here -->
+</section>
+
+<section id="links">
+    <!-- Your content for "Гіперпосилання" goes here -->
+</section>
+
+<section id="images">
+    <!-- Your content for "Зображення" goes here -->
+</section>
+
+<section id="table">
+    <!-- Your content for "Таблиця" goes here -->
+</section>
+
+<section id="form">
+    <!-- Your content for "Форма" goes here -->
+</section>
+
+<footer>
+    <!-- Your footer content goes here -->
+</footer>
+
+</body>
+</html>
